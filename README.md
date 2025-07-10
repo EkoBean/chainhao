@@ -1,2 +1,2 @@
 # chainhao
-password
+Share the learning resources
